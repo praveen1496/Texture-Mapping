@@ -1,0 +1,9 @@
+Open main.py
+
+In line 32, change path of the texture file "" based on its location
+
+In line 134, Change path of the file "sphere" to the file location.
+
+Line 614, to change camera position if required.
+
+Run main.py
