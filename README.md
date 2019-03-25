@@ -12,3 +12,5 @@ d) Texture map
 
 ## Output:
 Texture mapped and Phong shaded view of the object
+
+![texture mapping](https://user-images.githubusercontent.com/36493187/54953305-4cf13480-4f1e-11e9-84b3-ca90697e4356.JPG)
